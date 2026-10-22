@@ -2,8 +2,8 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: 'export',
-  basePath: '/tnp-manager',
-  assetPrefix: '/tnp-manager/',
+  basePath: '/placement-portal',
+  assetPrefix: '/placement-portal/',
   images: {
     unoptimized: true,
   },
